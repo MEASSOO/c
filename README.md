@@ -5,3 +5,8 @@
 . 4
 . 5
 # kill
+
+
+'''bash
+measso
+'''
